@@ -368,6 +368,8 @@ The project successfully:
 - Visualized installs and revenue trends
 
 ---
+## Output
+![image alt](https://github.com/yashrajmohanty03-ai/Ev6/blob/4e7fd6f671151c51388471dcc830724265e4c376/op6.png)
 
 ## Conclusion
 
